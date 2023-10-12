@@ -4,7 +4,7 @@ Calculator Application is a front end project to make simple calculations (ex. a
 
 ## Links
 
-- [Live Demo](https://calculator-react-client.herokuapp.com)
+- [Live Demo](https://calculator-app-client.netlify.app/)
 
 ## Screenshots
 
